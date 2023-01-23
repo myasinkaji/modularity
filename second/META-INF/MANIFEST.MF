@@ -1,0 +1,3 @@
+Automatic-Module-Name: ir.home.second
+Main-Class: ir.home.second.Second
+Class-Path: first.jar third.jar
